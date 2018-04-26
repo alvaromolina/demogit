@@ -4,4 +4,5 @@ package com.ucbcba.demogit;
 public class Restaurant {
     String name;
     String title;
+    String texto;
 }
